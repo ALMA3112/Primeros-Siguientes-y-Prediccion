@@ -1,0 +1,10 @@
+S -> A B uno
+A -> dos B
+A -> ε
+B -> C D
+B -> tres
+B -> ε
+C -> cuatro A B
+C -> cinco
+D -> seis
+D -> ε
